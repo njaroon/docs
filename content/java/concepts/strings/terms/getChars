@@ -1,0 +1,5 @@
+# ** getChars() **
+
+## ** OBJECTIVE: Define .getchars() and demonstrate usage. **
+
+## .getChars is a java strings mehodthat  copies characters from the given string into the destination character array.
